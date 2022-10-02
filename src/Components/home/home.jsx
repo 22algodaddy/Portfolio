@@ -1,5 +1,6 @@
 import Pic from "../../Assets/pic.jpg"
 import {MdOutlineArrowForwardIos} from "react-icons/md"
+import {Link} from "react-scroll"
 export default function home(){
     return(
         <div name="home"
@@ -15,13 +16,13 @@ export default function home(){
                         C++, and Python
                     </p>
                     <div>
-                        <button className=" group w-fit px-6 py-3 my-2 flex items-center rounded-md
+                        <Link to="portfolio" smooth duration={800} className=" group w-fit px-6 py-3 my-2 flex items-center rounded-md
                          bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
                             Portfolio
                             <span className="group-hover:rotate-90 duration-300">
                                <MdOutlineArrowForwardIos size={25} className="ml-1"/>
                             </span>
-                        </button>
+                        </Link>
                     </div>
                 </div>
                 <div>
