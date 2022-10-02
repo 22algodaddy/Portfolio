@@ -6,7 +6,7 @@ export default function About(){
                     <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
                 </div>
                 <p className="text-xl mt-20 break-words">
-                    I am currently a <strong>sophomore</strong> at RV College Of Engineering, pursuing Bachelor of Engineering in Electronics and
+                    I am currently a <strong>sophomore</strong> at RV College Of Engineering Bengaluru, pursuing Bachelor of Engineering in Electronics and
                     Telecommunication.I love both coding and my core electronics subjects also. I had  recently
                     completed a <strong>Full-Stack Web Development</strong> Bootcamp at Udemy. I also love to solve DSA problems using C++.
                     I love to learn more about new tech stacks.
