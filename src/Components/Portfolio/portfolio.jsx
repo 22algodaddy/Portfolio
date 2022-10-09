@@ -8,12 +8,19 @@ export default function Portfolio(){
                 <p className="py-6">I will update my work here </p>
                 </div>
                 <div name="projectDiv" className="-mt-[40px]">
-                    <div className="flex flex-col ">
-                        <div className="justify-self-center">
+                    <div className="flex flex-col font-bold">
+                        <div className="justify-self-center ">
                             <h2 className="text-xl text-sky-400 "><h1 className="inline text-2xl">1.</h1>  Social Media Using MERN</h2>
                             <button className="ml-[50px] bg-blue-500 hover:bg-blue-700 ext-white my-[10px]
                             font-bold py-2 px-4 rounded-md">
                                 <a href="https://github.com/22algodaddy/collegeQuora" target="__blank">Source code</a>
+                            </button>
+                        </div>
+                        <div className="justify-self-center">
+                            <h2 className="text-xl text-sky-400 "><h1 className="inline text-2xl">2.</h1>October Eats  </h2>
+                            <button className="ml-[50px] bg-blue-500 hover:bg-blue-700 ext-white my-[10px]
+                            font-bold py-2 px-4 rounded-md">
+                                <a href="https://github.com/22algodaddy/octoberEats" target="__blank">Source code</a>
                             </button>
                         </div>
                     </div>
