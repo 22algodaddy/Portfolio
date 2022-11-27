@@ -41,7 +41,7 @@ export default function socialConnect(){
                     Resume <BsFillPersonLinesFill size={30}></BsFillPersonLinesFill>
                 </>
             ),
-            href:"../../Assets/DC_resume.pdf",
+            href:"../../Assets/Dhruv Choubey._updated_resume.pdf",
             style:"rounded-br-md",
             download:true,
         },
