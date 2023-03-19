@@ -29,9 +29,9 @@ export default function Portfolio(){
                             <h2 className="text-xl text-sky-400 "><h1 className="inline text-2xl">3.</h1>MetFlix</h2>
                             <button className="ml-[50px] bg-blue-500 hover:bg-blue-700 ext-white my-[10px]
                             font-bold py-2 px-4 rounded-md">
-                                <a href="https://6341679bba7c2d3000b2ad89--astonishing-trifle-f10eba.netlify.app"
+                                <a href="https://netflix-clone-21x43shoc-22algodaddy.vercel.app/"
                                    target="__blank">
-                                    Developing
+                                    Click Me
                                 </a>
                             </button>
                         </div>
